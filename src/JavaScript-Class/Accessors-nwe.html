@@ -1,0 +1,21 @@
+<script>
+    class product
+    {
+        Name = "Samsung TV";
+        Rating = {
+            "VendorRating":{
+                "Rate":3.4,
+                "Count":54
+            },
+            "CustomerRating":{
+                "Rate":3.1,
+                "Count":3000
+            }
+        }
+        get CustomerRating(){
+            return this.Rating.CustomerRating.Rate;
+        }
+    }
+    let obj = new product();
+    document.write(obj.CustomerRating);
+</script>
