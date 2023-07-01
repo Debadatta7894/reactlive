@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reactlive/static/css/main.ada79738.css",
-    "main.js": "/reactlive/static/js/main.05ad4641.js",
-    "static/js/787.4177f587.chunk.js": "/reactlive/static/js/787.4177f587.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/reactlive/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/bootstrap-icons.woff2?": "/reactlive/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "static/media/logo.svg": "/reactlive/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/reactlive/index.html",
-    "main.ada79738.css.map": "/reactlive/static/css/main.ada79738.css.map",
-    "main.05ad4641.js.map": "/reactlive/static/js/main.05ad4641.js.map",
-    "787.4177f587.chunk.js.map": "/reactlive/static/js/787.4177f587.chunk.js.map"
+    "main.css": "/demo2/static/css/main.9fdab682.css",
+    "main.js": "/demo2/static/js/main.75427fa9.js",
+    "static/js/787.4177f587.chunk.js": "/demo2/static/js/787.4177f587.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/demo2/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/demo2/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/logo.svg": "/demo2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/demo2/index.html",
+    "main.9fdab682.css.map": "/demo2/static/css/main.9fdab682.css.map",
+    "main.75427fa9.js.map": "/demo2/static/js/main.75427fa9.js.map",
+    "787.4177f587.chunk.js.map": "/demo2/static/js/787.4177f587.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ada79738.css",
-    "static/js/main.05ad4641.js"
+    "static/css/main.9fdab682.css",
+    "static/js/main.75427fa9.js"
   ]
 }
